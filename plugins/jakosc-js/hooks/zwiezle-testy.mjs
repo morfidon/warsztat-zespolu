@@ -42,8 +42,7 @@ process.stdout.write(
       hookEventName: 'PreToolUse',
       permissionDecision: 'ask',
       permissionDecisionReason:
-        'Zwięzłe testy: dopisałem --test-reporter=dot do npm test (kropka za test, szczegóły tylko przy błędach). ' +
-        `Polecenie po zmianie: ${nowe}`,
+        'Zwięzłe testy: dopisałem --test-reporter=dot do npm test (kropka za test, szczegóły tylko przy błędach).',
       updatedInput: { ...wejscie.tool_input, command: nowe },
     },
   })

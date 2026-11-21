@@ -15,7 +15,7 @@
       "name": "jakosc-js",
       "source": "./plugins/jakosc-js",
       "description": "Jakość kodu JS: hook linter po edycji (eslint/stylelint --fix z node_modules projektu) i hook zwięzłe testy (npm test z reporterem dot).",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
