@@ -33,4 +33,4 @@ Krótko, po polsku, w trzech sekcjach w tej kolejności:
 **Ostrzeżenia** – przypadki brzegowe, brakujące testy, ryzykowne miejsca.
 **Drobiazgi** – czytelność, nazewnictwo, styl.
 
-Każdy punkt: `plik:linia` – jedno zdanie, co jest nie tak, i krótko, jak to naprawić. Pustą sekcję oznacz „brak”. Bez wstępów i podsumowań.
+Każdy punkt: `plik:linia` – jedno zdanie, co jest nie tak, i krótko, jak to naprawić. Przy każdym punkcie z sekcji **Krytyczne** dopisz jeden sposób sprawdzenia poprawki (np. polecenie testu albo dane wejściowe, które przed poprawką dają błąd). Pustą sekcję oznacz „brak”. Bez wstępów i podsumowań.
