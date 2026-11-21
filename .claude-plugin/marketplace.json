@@ -1,0 +1,15 @@
+{
+  "name": "warsztat-zespolu",
+  "description": "Katalog pluginów zespołu: wspólne narzędzia pracy z Claude Code.",
+  "owner": {
+    "name": "morfidon"
+  },
+  "plugins": [
+    {
+      "name": "warsztat",
+      "source": "./plugins/warsztat",
+      "description": "Warsztat pracy z Claude Code: skille /commit i /wydanie, agenci recenzent i tester, hooki strażnik sekretów i bramka testów.",
+      "version": "1.0.0"
+    }
+  ]
+}

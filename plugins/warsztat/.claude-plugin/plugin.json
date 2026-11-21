@@ -1,0 +1,8 @@
+{
+  "name": "warsztat",
+  "version": "1.0.0",
+  "description": "Warsztat pracy z Claude Code: skille /commit i /wydanie, agenci recenzent i tester, hooki strażnik sekretów i bramka testów.",
+  "author": {
+    "name": "morfidon"
+  }
+}
