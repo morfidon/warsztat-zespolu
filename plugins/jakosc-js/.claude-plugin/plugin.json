@@ -1,0 +1,8 @@
+{
+  "name": "jakosc-js",
+  "version": "1.0.0",
+  "description": "Jakość kodu JS: hook linter po edycji (eslint/stylelint --fix z node_modules projektu) i hook zwięzłe testy (npm test z reporterem dot).",
+  "author": {
+    "name": "morfidon"
+  }
+}
